@@ -4,4 +4,36 @@ body {
   margin: 0;
 }
 
+header {
+  text-align: center
+}
 
+nav a {
+  padding: 10px;
+}
+
+
+figure {
+  text-align: center
+}
+
+figcaption {
+  font-size: 10px;
+}
+
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+  background-color: green;
+  text-align: center;
+  width: 25%;
+}
